@@ -16,13 +16,13 @@
 //Operadores Lógicos
 
 1 || ou //um ou outro é verdade
-&& e //ambos são verdade
+    && e //ambos são verdade
 !não //falso
 
 //Operadores unários
 1++ //Soma 1
 1-- //Subtrai 1
-- 1 //valor negativo
+    - 1 //valor negativo
 
 //Estrutura Léxica
 
