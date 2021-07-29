@@ -13,12 +13,6 @@
 1 >= 1
 1 <= 1
 
-//Funções
-
-function Nome(parametros) {
-    return Resultado
-}
-
 //Operadores Lógicos
 
 1 || ou //um ou outro é verdade
@@ -47,6 +41,14 @@ IDENTIFICADOR é uma sequência de caracteres que pode ser usada para identifica
 PALAVRAS RESERVADAS não podem ser identificadores*/
 
 DICA//O cifrão é comumente usado para fazer referência a elementos DOM (Document Object Model, uma representação de um documento html em nós e objetos).//
+
+
+//Funções
+
+function Nome(parametros) {
+    return Resultado
+}
+
 
 //Estruturas condicionais
 
