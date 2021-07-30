@@ -101,3 +101,4 @@ Senão, 'Truthy'
 //por exemplo, se numero = 0, daria false
 
 
+//=====
